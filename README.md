@@ -1,4 +1,4 @@
-# Springboot REST demo
+# Rendu Alexandre Tournel M1-CYBER
 
 When running, swagger is available : http://localhost:8080/swagger-ui/index.html
 
